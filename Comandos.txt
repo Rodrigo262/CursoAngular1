@@ -1,0 +1,11 @@
+Crear App
+ng new countryApp
+
+Crear Componente
+ng g component gifs/components/card-list
+
+Crear Módulo
+ng g m shared
+
+Lanzar App
+ng -server o /*Se puede ver en package.json*/

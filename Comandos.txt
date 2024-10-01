@@ -1,11 +1,11 @@
 Crear App
-ng new countryApp
+ng new <nombreApp>
 
 Crear Componente
-ng g component gifs/components/card-list
+ng g component <gifs/components/card-list>
 
 Crear Módulo
-ng g m shared
+ng g m <shared>
 
 Lanzar App
 ng -server o /*Se puede ver en package.json*/

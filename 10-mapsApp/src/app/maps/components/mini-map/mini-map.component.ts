@@ -1,4 +1,3 @@
-import { ControlPosition } from './../../../../../node_modules/maplibre-gl/dist/maplibre-gl.d';
 import {
   AfterViewInit,
   Component,

@@ -8,7 +8,16 @@ const routes: Routes = [
     loadChildren: () =>
       import('./products/products.module').then((m) => m.ProductsModule),
   },
-  { path: 'products', loadChildren: () => import('./shared/shared.module').then(m => m.SharedModule) },
+  {
+    path: 'products',
+    loadChildren: () =>
+      import('./shared/shared.module').then((m) => m.SharedModule),
+  },
+  {
+    path: 'signals',
+    loadChildren: () =>
+      import('./signals/signals.module').then((m) => m.SignalsModule),
+  },
   {
     path: '**',
     redirectTo: 'products',

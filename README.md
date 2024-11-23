@@ -61,3 +61,9 @@ https://docs.maptiler.com/sdk-js/examples/how-to-use/
 https://reqres.in/
 
 https://docs.nestjs.com/
+
+https://sweetalert2.github.io/
+
+https://railway.app/
+
+https://app.netlify.com/

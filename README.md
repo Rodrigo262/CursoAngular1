@@ -67,3 +67,7 @@ https://sweetalert2.github.io/
 https://railway.app/
 
 https://app.netlify.com/
+
+https://goalkicker.com/Angular2Book/
+
+https://v17.angular.io/guide/styleguide

@@ -5,8 +5,8 @@ import { RouterModule } from '@angular/router';
 import { routes } from '../../app.routes';
 
 @Component({
-  selector: 'app-sidemenu',
   standalone: true,
+  selector: 'app-sidemenu',
   imports: [CommonModule, RouterModule],
   templateUrl: './sidemenu.component.html',
   styles: ``,
